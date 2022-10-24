@@ -1,0 +1,31 @@
+
+/*REGISTRATION*/
+
+.gradient-custom-3 {
+    /* fallback for old browsers */
+    background: #ff8827;
+    background-size: cover;
+    
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: -webkit-linear-gradient(to right, #f88d36, rgba(143, 211, 244, 0.5));
+    background-size: cover;
+    
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: linear-gradient(to right, #f39344, rgba(143, 211, 244, 0.5));
+    background-size: cover;
+    
+    }
+    .gradient-custom-4 {
+    /* fallback for old browsers */
+    background: #ff8827;
+    background-size: cover;
+    border: none;
+    
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: -webkit-linear-gradient(to right, #ff8827, rgba(143, 211, 244, 1));
+    background-size: cover;
+    
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: linear-gradient(to right, #ff8827, rgba(143, 211, 244, 1));
+    background-size: cover;
+    }
